@@ -1,0 +1,61 @@
+Project_ID,Project_Name,Location,Contractor,Start_Date,Planned_End_Date,Actual_End_Date,Budget,Actual_Cost,Cost_Variance,Cost_Overrun_Flag,Delay_Days,Progress_%,Status
+1,Offshore Platform,Netherlands,Fluor,2022-12-20,2024-03-19,2024-07-06,19793306,15995130,-3798176,Within Budget,109,100,Delayed
+2,Pipeline Expansion,UAE,Fluor,2023-06-19,2025-04-09,2025-05-12,12090546,27771846,15681300,Over Budget,33,100,Ongoing
+3,Rail Project,Germany,Fluor,2022-08-01,2023-10-27,2023-10-14,42530539,46038267,3507728,Over Budget,-13,100,Delayed
+4,Refinery Upgrade,UK,Bechtel,2023-06-09,2024-01-20,2024-01-31,47641747,60495987,12854240,Over Budget,11,100,Completed
+5,Wind Farm Install,UAE,Bechtel,2022-05-15,2024-04-18,2024-05-18,49553149,67367612,17814463,Over Budget,30,100,Delayed
+6,Solar Plant Build,Norway,Technip,2023-08-18,2024-11-30,2025-02-26,31377206,32804670,1427464,Over Budget,88,100,Ongoing
+7,Rail Project,Italy,Bechtel,2022-04-07,2023-03-12,2023-04-27,52797872,50734523,-2063349,Within Budget,46,100,Delayed
+8,Pipeline Expansion,UAE,Fluor,2023-06-12,2024-03-22,2024-05-17,62291245,72651685,10360440,Over Budget,56,100,Ongoing
+9,Rail Project,Germany,Saipem,2024-01-20,2025-12-10,2026-01-07,38863091,53584929,14721838,Over Budget,28,100,Completed
+10,Wind Farm Install,Norway,Fluor,2024-02-16,2025-02-23,2025-01-30,42615650,40638758,-1976892,Within Budget,-24,100,Delayed
+11,Storage Facility,UK,Bechtel,2023-02-11,2024-04-11,2024-06-15,33635036,50403939,16768903,Over Budget,65,100,Delayed
+12,Bridge Construction,Norway,Fluor,2022-06-02,2024-02-02,2024-03-04,72238061,90382203,18144142,Over Budget,31,100,Ongoing
+13,Wind Farm Install,Italy,Petrofac,2023-01-31,2024-11-17,2024-11-28,54822042,63407861,8585819,Over Budget,11,100,Delayed
+14,Solar Plant Build,Germany,Fluor,2022-03-14,2022-11-05,2022-12-09,53546740,53066827,-479913,Within Budget,34,100,Ongoing
+15,Gas Processing Unit,Norway,Fluor,2023-03-16,2024-11-23,2025-01-11,50758684,50695802,-62882,Within Budget,49,100,Completed
+16,Gas Processing Unit,Norway,Bechtel,2023-08-07,2024-10-23,2024-10-18,68134551,71696809,3562258,Over Budget,-5,100,Delayed
+17,Refinery Upgrade,UAE,Bechtel,2023-03-18,2024-09-30,2024-11-19,61792826,74235244,12442418,Over Budget,50,100,Delayed
+18,Pipeline Expansion,UAE,Fluor,2023-02-21,2024-10-20,2024-12-21,75196349,92237681,17041332,Over Budget,62,100,Completed
+19,Refinery Upgrade,Netherlands,Saipem,2023-08-12,2025-04-17,2025-05-17,49371281,45305173,-4066108,Within Budget,30,100,Completed
+20,Offshore Platform,Italy,Bechtel,2023-12-04,2024-08-12,2024-11-12,38287342,37952180,-335162,Within Budget,92,100,Ongoing
+21,Commercial Complex,UK,Saipem,2023-11-05,2024-03-05,2024-05-12,11426565,27494532,16067967,Over Budget,68,100,Delayed
+22,Storage Facility,UK,Technip,2023-04-19,2024-08-03,2024-08-09,19588670,22987720,3399050,Over Budget,6,100,Delayed
+23,Refinery Upgrade,Norway,Fluor,2022-06-28,2023-03-06,2023-02-10,71310598,68507248,-2803350,Within Budget,-24,100,Completed
+24,Offshore Platform,Italy,Fluor,2022-12-12,2024-03-09,2024-07-01,54253751,66938691,12684940,Over Budget,114,100,Ongoing
+25,Commercial Complex,Italy,Saipem,2022-05-28,2023-11-21,2023-11-29,64701971,79382978,14681007,Over Budget,8,100,Delayed
+26,Offshore Platform,Norway,Technip,2023-02-25,2023-09-06,2023-10-06,33268651,36613234,3344583,Over Budget,30,100,Delayed
+27,Offshore Platform,Germany,Bechtel,2023-05-29,2024-04-08,2024-05-29,17788672,32962813,15174141,Over Budget,51,100,Completed
+28,Solar Plant Build,Italy,Technip,2022-10-17,2024-05-09,2024-08-26,10367961,23825888,13457927,Over Budget,109,100,Completed
+29,Bridge Construction,Italy,Technip,2023-10-11,2025-09-23,2025-10-12,31909247,48012151,16102904,Over Budget,19,100,Completed
+30,Solar Plant Build,Norway,Fluor,2023-04-16,2025-03-20,2025-05-12,17945689,30959118,13013429,Over Budget,53,100,Delayed
+31,Pipeline Expansion,Italy,Fluor,2022-08-19,2024-01-05,2024-02-28,17659973,33684775,16024802,Over Budget,54,100,Delayed
+32,Storage Facility,Norway,Technip,2022-10-29,2024-02-23,2024-05-20,24502593,39971209,15468616,Over Budget,87,100,Delayed
+33,Pipeline Expansion,Germany,Technip,2022-11-01,2024-06-09,2024-08-08,14988305,18916049,3927744,Over Budget,60,100,Delayed
+34,Rail Project,Germany,Saipem,2023-12-02,2025-08-30,2025-12-06,27664003,23616604,-4047399,Within Budget,98,100,Ongoing
+35,Refinery Upgrade,UAE,Fluor,2022-04-12,2022-10-14,2022-10-14,51876734,62014738,10138004,Over Budget,0,100,Ongoing
+36,Solar Plant Build,UK,Bechtel,2023-11-05,2024-04-06,2024-05-07,54072323,65000976,10928653,Over Budget,31,100,Delayed
+37,Pipeline Expansion,Netherlands,Technip,2023-11-16,2025-01-02,2025-03-10,17950876,32846136,14895260,Over Budget,67,100,Completed
+38,Rail Project,Netherlands,Petrofac,2023-01-13,2024-03-05,2024-06-05,38962321,38925127,-37194,Within Budget,92,100,Ongoing
+39,Solar Plant Build,UAE,Saipem,2022-02-14,2022-10-22,2022-11-18,42024325,52664386,10640061,Over Budget,27,100,Completed
+40,Solar Plant Build,UK,Fluor,2022-10-01,2023-08-03,2023-08-05,12114727,11036341,-1078386,Within Budget,2,100,Delayed
+41,Refinery Upgrade,Germany,Technip,2022-10-10,2024-06-06,2024-06-15,63178519,75730586,12552067,Over Budget,9,100,Completed
+42,Commercial Complex,Germany,Fluor,2024-01-22,2024-05-26,2024-08-05,76754206,90677745,13923539,Over Budget,71,100,Completed
+43,Bridge Construction,Norway,Fluor,2022-03-05,2024-02-08,2024-03-20,78119281,84105631,5986350,Over Budget,41,100,Completed
+44,Rail Project,Norway,Technip,2023-02-13,2023-11-15,2024-02-03,49664043,53888783,4224740,Over Budget,80,100,Ongoing
+45,Offshore Platform,UK,Bechtel,2024-03-06,2024-12-22,2025-03-12,33247032,49325701,16078669,Over Budget,80,100,Completed
+46,Bridge Construction,UAE,Fluor,2022-10-07,2023-04-11,2023-07-06,63433977,67659118,4225141,Over Budget,86,100,Ongoing
+47,Offshore Platform,UK,Saipem,2023-10-07,2025-05-25,2025-08-13,49571133,57672251,8101118,Over Budget,80,100,Completed
+48,Storage Facility,Italy,Technip,2022-09-17,2024-07-20,2024-11-17,18420909,27852042,9431133,Over Budget,120,100,Delayed
+49,Solar Plant Build,Germany,Saipem,2023-11-17,2024-07-05,2024-09-11,42607957,56371123,13763166,Over Budget,68,100,Completed
+50,Refinery Upgrade,UAE,Petrofac,2022-01-26,2022-08-02,2022-11-08,75160395,72873924,-2286471,Within Budget,98,100,Delayed
+51,Solar Plant Build,Italy,Saipem,2023-08-26,2024-04-24,2024-05-30,43760326,60807752,17047426,Over Budget,36,100,Completed
+52,Storage Facility,UK,Bechtel,2023-06-27,2023-10-28,2023-11-20,51496537,51330640,-165897,Within Budget,23,100,Completed
+53,Commercial Complex,Italy,Petrofac,2023-12-14,2025-07-01,2025-06-23,17629527,15677352,-1952175,Within Budget,-8,100,Delayed
+54,Wind Farm Install,Germany,Petrofac,2022-05-15,2022-10-15,2023-02-04,56568305,60087038,3518733,Over Budget,112,100,Ongoing
+55,Rail Project,UK,Bechtel,2024-01-30,2025-04-03,2025-03-06,50835855,49081357,-1754498,Within Budget,-28,100,Ongoing
+56,Storage Facility,Norway,Saipem,2023-03-09,2024-03-04,2024-06-12,36742438,32794106,-3948332,Within Budget,100,100,Ongoing
+57,Storage Facility,Italy,Technip,2023-01-21,2024-06-18,2024-09-09,68636590,70637058,2000468,Over Budget,83,100,Ongoing
+58,Storage Facility,Netherlands,Saipem,2023-07-10,2025-04-23,2025-05-30,28703269,24005276,-4697993,Within Budget,37,100,Delayed
+59,Storage Facility,Germany,Fluor,2022-01-10,2023-01-26,2023-02-20,61943077,75902537,13959460,Over Budget,25,100,Completed
+60,Commercial Complex,UK,Petrofac,2024-03-01,2025-10-10,2025-09-15,32868989,48377064,15508075,Over Budget,-25,100,Completed
