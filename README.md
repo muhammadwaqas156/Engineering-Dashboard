@@ -1,40 +1,105 @@
-# Enhanced Engineering Dashboard
+# 🟦 Enhanced Engineering Performance & Cost Analysis Dashboard
 
-## Project Overview
-The **Enhanced Engineering Dashboard** is an interactive analytics solution designed to provide real-time insights into engineering project performance. It consolidates project data, cost metrics, KPIs, and variances into a single, visually intuitive platform, enabling stakeholders to make faster, data-driven decisions.
+## 📌 Project Overview  
+The **Enhanced Engineering Performance & Cost Analysis Dashboard** is an interactive Power BI solution designed to provide real-time insights into engineering project performance, cost tracking, and budget variance analysis.
 
-This dashboard is particularly useful for engineering teams and project managers to track project costs, budget adherence, and performance metrics across multiple projects and contracts.
-
----
-
-## Key Features
-- **Dynamic KPI Tracking:** Tracks critical KPIs like total actual cost, budget variance, and cost variance rules. Uses visual indicators (up/down arrows, red/green/blue) for easy interpretation.
-- **Variance Analysis:** Implements minimum and maximum variance rules to flag deviations from expected values.
-- **Cost Monitoring:** Monitors total actual costs against budget and flags deviations beyond predefined thresholds (e.g., maximum allowable cost variance of 3 billion).
-- **Interactive Visuals:** Features charts, graphs, and KPI cards for an at-a-glance understanding of project health. Filters allow drilling down by project, contract, or time period.
-- **Data Integration:** Connects multiple data sources such as SQL databases and Excel sheets, consolidating all engineering metrics in one dashboard.
+It consolidates multiple data sources into a single dashboard, enabling stakeholders to monitor project health, control costs, and make faster data-driven decisions.
 
 ---
 
-## Technologies Used
-- **Power BI, Excel with DAX & Power Query** – For data modeling, KPI calculations, and visualizations.
-- **SQL** – For data extraction, aggregation, and transformation.
-- **Conditional Formatting & Visual Indicators** – To highlight KPIs and variances effectively.
+## 🎯 Objective  
+The main objective of this project is to:
+
+- Replace manual reporting with an automated dashboard  
+- Provide real-time visibility into project costs and performance  
+- Identify budget overruns and inefficiencies early  
+- Support better decision-making for project managers and stakeholders  
 
 ---
 
-## Benefits
-- Real-time visibility into project performance.
-- Reduces manual reporting and calculation efforts.
-- Enables proactive decision-making through variance alerts.
-- Helps identify areas needing immediate attention to control costs and improve efficiency.
+## ⚙️ Key Features  
+
+### 📊 KPI Monitoring  
+- Total Actual Cost tracking  
+- Budget vs Actual comparison  
+- Cost variance analysis  
+- Performance indicators with visual alerts  
+
+### 📉 Variance Analysis  
+- Detects deviations from expected budget thresholds  
+- Highlights over-budget and under-budget projects  
+- Uses conditional formatting (red/green indicators) for quick interpretation  
+
+### 📈 Interactive Dashboard  
+- Drill-down analysis by project, contract, and time period  
+- Dynamic filters for better exploration  
+- Visual storytelling through charts and KPI cards  
+
+### 🔄 Data Integration  
+- Combines data from Excel and SQL databases  
+- Data cleaning and transformation using Power Query  
+- Structured data model for reporting efficiency  
 
 ---
 
-## Author
-*Muhammad Waqas*  
-Email: Kbwaqas@gmail.com  
-Linkedin : www.linkedin.com/in/muhammad-waqas-a7532251
+## 🛠️ Tools & Technologies  
+- Power BI  
+- DAX (Data Analysis Expressions)  
+- Power Query  
+- SQL  
+- Excel  
 
+---
 
+## 📊 Key Insights  
+- Identified projects exceeding budget variance thresholds  
+- Highlighted cost inefficiencies across engineering contracts  
+- Improved visibility into real-time project performance  
+- Enabled faster decision-making through automated reporting  
 
+---
+
+## 💼 Business Impact  
+- Reduced manual reporting effort significantly  
+- Improved accuracy of cost tracking and variance detection  
+- Enabled proactive project monitoring  
+- Helped stakeholders make faster and more informed decisions  
+
+---
+
+## 📁 Project Structure  
+Enhanced-Engineering-Dashboard/
+│
+
+├── README.md
+
+├── dashboard.pbix
+
+├── dataset.xlsx
+
+└── screenshots/
+
+---
+
+## 📸 Dashboard Preview  
+
+- KPI Overview
+  https://github.com/muhammadwaqas156/Engineering-Dashboard/blob/main/1.PNG
+- Cost Variance Analysis
+  https://github.com/muhammadwaqas156/Engineering-Dashboard/blob/main/2.PNG
+- Project Performance Charts
+  https://github.com/muhammadwaqas156/Engineering-Dashboard/blob/main/3.PNG 
+
+---
+
+## 👨‍💻 Author  
+**Muhammad Waqas**  
+📧 Email: Kbwaqas@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/muhammad-waqas-a7532251  
+
+---
+
+## 🚀 Future Improvements  
+- Add predictive cost forecasting using Python  
+- Automate data refresh using Power BI Service  
+- Integrate real-time API data sources  
